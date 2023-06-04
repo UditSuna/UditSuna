@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UditSuna
-- 👀 I’m interested in ...Data Analyst Field
+- 👀 I’m interested in ...Data Analyst 
 - 🌱 I’m currently learning ...Microsoft PowerBi
 - 💞️ I’m looking to collaborate on ...visualization project
 - 📫 How to reach me ...+91-8847863113
